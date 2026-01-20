@@ -18,6 +18,7 @@ namespace SistemaDeBiblioteca
             biblioteca.CadastrarLivro(livro2);
             biblioteca.CadastrarLivro(livro3);
             biblioteca.CadastrarLivro(livro4);
+            biblioteca.CadastrarLivro(livro5);
 
 
             Console.WriteLine("Bem vindo a Biblioteca Ponei!\n");
